@@ -25,3 +25,9 @@ console.log(numberOfLettersInAlphabet); // Output: 26
 // soluzione 1
 const myname = 'Davide';
 console.log(myname);
+
+// soluzione 2
+let number = 4;
+let text = 'dnd';
+let bool = 3 > 2;
+console.log(number, text, bool);
